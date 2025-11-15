@@ -3,3 +3,5 @@ target/
 dbt_packages/
 logs/
 conf/
+lessons/
+lessons-ch02
